@@ -1,0 +1,26 @@
+.header {
+  text-align: center;
+  font-weight: 800;
+  font-family: sans-serif;
+  border-bottom: 1px #ffffff;
+}
+
+.nav-link.active {
+  opacity: 100;
+}
+
+.nav-item {
+  padding: 2px;
+}
+
+.nav-item.bolder {
+  font-weight: 700;
+}
+
+#navcol-1 {
+  margin: 1px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0px;
+}
+
